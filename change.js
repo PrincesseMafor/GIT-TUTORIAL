@@ -1,2 +1,1 @@
-console.log('changes');
-console.log("Prike-Tech");
+console.log('change');
